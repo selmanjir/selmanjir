@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Abdulsamet</h1>
-<h3 align="center">A passionate Full Stack Developer from Turkey</h3>
+<h1 align="center">Hi 👋, I'm Jir</h1>
+<h3 align="center">A passionate Backend Developer from Turkey</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abdulskaya&label=Profile%20views&color=0e75b6&style=flat" alt="abdulskaya" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=selmanjir&label=Profile%20views&color=0e75b6&style=flat" alt="selmanjir" /> </p>
 
 <br><br>
 - 🔭 I’m currently working on the web
-- 🌱 I’m currently learning <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> Node.js <img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" alt="vuejs" width="25" height="25"/> </a>
+- 🌱 I’m currently learning <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> Node.js <img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" alt="nodejs" width="25" height="25"/> </a>
 <br>
 
 ## 🛠 Skills
@@ -15,20 +15,20 @@
 
 ## 🤙 Contact with Me
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulskaya@gmail.com)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cselmanjir@gmail.com)
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulsametkaya/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selman-jir-can-935815201//)
 
 [![personalwebsite](https://img.shields.io/badge/personal_website_(coming_soon)-000000?style=for-the-badge&logo=About.me&logoColor=white)](comingsoon)
 
 
 <br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulskaya&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats" alt="Abdulsamet Kaya:: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selmanjir&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats" alt="Abdulsamet Kaya:: Profile Stats" /></p>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=abdulskaya&count_private=true&show_icons=true&theme=cobalt" alt="Abdulsamet Kaya:: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=selmanjir&count_private=true&show_icons=true&theme=cobalt" alt="Jir Kaya:: Profile Stats" /></p>
 
 
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=abdulskaya&theme=dracula&date_format=%5BY%20%5DM%20j&background=193549" alt="Abdulsamet Kaya:: Profile Stats" /></p>
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=selmanjir&theme=dracula&date_format=%5BY%20%5DM%20j&background=193549" alt="Jir Kaya:: Profile Stats" /></p>
 
