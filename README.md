@@ -30,7 +30,8 @@
 <img src="https://forenda.com.tr/wp-content/uploads/2020/10/mongodb-logo.png" alt="MongoDb" width="40" height="40"/> </a>  
 <a href="https://www.adobe.com/tr/products/photoshop.html?skwcid=AL!3085!3!474170962009!e!!g!!photoshop&mv=search&sdid=LZ32SYVR&ef_id=CjwKCAiAx8KQBhAGEiwAD3EiP6qvENj2MDq3IMz5aQexyTM8Uushro4jCryAvVibMLm177qIa4kuQxoCIVIQAvD_BwE:G:s&s_kwcid=AL!3085!3!474170962009!e!!g!!photoshop!1448694214!55308397806&gclid=CjwKCAiAx8KQBhAGEiwAD3EiP6qvENj2MDq3IMz5aQexyTM8Uushro4jCryAvVibMLm177qIa4kuQxoCIVIQAvD_BwE" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-
+</p>
+<br>
 ## 🤙 Contact with Me
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cselmanjir@gmail.com)
