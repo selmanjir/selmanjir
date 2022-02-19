@@ -29,9 +29,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/2048px-.NET_Logo.svg.png" alt="css3" width="40" height="40"/> </a>
+<img src="https://cdn.hosting.com.tr/hosting/img/svg/windows/sqlserver.svg" alt="sql" width="40" height="40"/> </a>
 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+<a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-2019" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 
 ## 🤙 Contact with Me
