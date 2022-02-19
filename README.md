@@ -48,11 +48,11 @@
 
 <br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selmanjir&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats" alt="Abdulsamet Kaya:: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selmanjir&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats" alt="Selman Jir CAN:: Profile Stats" /></p>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=selmanjir&count_private=true&show_icons=true&theme=cobalt" alt="Jir Kaya:: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=selmanjir&count_private=true&show_icons=true&theme=cobalt" alt="Selman Jir CAN:: Profile Stats" /></p>
 
 
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=selmanjir&theme=dracula&date_format=%5BY%20%5DM%20j&background=193549" alt="Jir Kaya:: Profile Stats" /></p>
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=selmanjir&theme=dracula&date_format=%5BY%20%5DM%20j&background=193549" alt="Selman Jir CAN:: Profile Stats" /></p>
 
