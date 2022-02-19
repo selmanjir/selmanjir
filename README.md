@@ -11,7 +11,7 @@
 ## 🛠 Skills
 
 <p align="left"> 
-<a href="nodejs.org" target="_blank" rel="noreferrer"> 
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
 <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="40" height="40"/> </a>
 </a> <a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/" target="_blank" rel="noreferrer"> 
 <img src="https://sametakca.com/wp-content/uploads/2020/12/715px-C_Sharp_logo.png" alt="c#" width="40" height="40"/> </a> 
