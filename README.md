@@ -45,8 +45,8 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selmanjir&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats" alt="Selman Jir CAN:: Profile Stats" /></p>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=selmanjir&count_private=true&show_icons=true&theme=green" alt="Selman Jir CAN:: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=selmanjir&count_private=true&show_icons=true&theme=synthwave" alt="Selman Jir CAN:: Profile Stats" /></p>
 
 
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=selmanjir&theme=dracula&date_format=%5BY%20%5DM%20j&background=193549" alt="Selman Jir CAN:: Profile Stats" /></p>
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=selmanjir&theme=synthwave&date_format=%5BY%20%5DM%20j&background=193549" alt="Selman Jir CAN:: Profile Stats" /></p>
 
