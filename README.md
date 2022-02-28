@@ -29,7 +29,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 <br>
-<div  align="center"> <img src="https://github.com/selmanjir/selmanjir/blob/output/github-contribution-grid-snake.svg" /></div>
+
 
 ## 🤙 Contact with Me
 
@@ -51,3 +51,4 @@
 
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=selmanjir&theme=synthwave&date_format=%5BY%20%5DM%20j&background=193549" alt="Selman Jir CAN:: Profile Stats" /></p>
 
+<div  align="center"> <img src="https://github.com/selmanjir/selmanjir/blob/output/github-contribution-grid-snake.svg" /></div>
