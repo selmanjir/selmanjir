@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> Node.js <img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" alt="nodejs" width="25" height="25"/> </a>
 <br>
 
-### 🛠 Skills
+### Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "30px" >
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
