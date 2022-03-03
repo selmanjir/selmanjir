@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Jir</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px", I'm Jir </h1>
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Student+4/4;A+passionate+Backend+Developer;NodeJs,+ASP.NET+MVC,+ASP.NET+Core;Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50&color=green&"></a>
 
 <br><br>
