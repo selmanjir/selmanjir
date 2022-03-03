@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jir</h1>
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Student+4/4;A+passionate+Backend+Developer;NodeJs,+ASP.NET+MVC,+ASP.NET+Core;Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50&color=green&"></a>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=selmanjir&label=Profile%20views&color=0e75b6&style=flat" alt="selmanjir" /> </p>
-
 <br><br>
 - 🔭 I’m currently working on the web
 - 🌱 I’m currently learning <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> Node.js <img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" alt="nodejs" width="25" height="25"/> </a>
@@ -49,3 +47,5 @@
 <p align="center" >
     <img height="180em"  src="http://github-readme-streak-stats.herokuapp.com?user=selmanjir&theme=algolia&date_format=%5BY%20%5DM%20j&background=193549" alt="Selman Jir CAN:: Profile Stats" />
 </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=selmanjir&label=Profile%20views&color=0e75b6&style=flat" alt="selmanjir" /> </p>
