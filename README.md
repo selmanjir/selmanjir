@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 32px; >Hi 👋, I'm Jir</p>
+<p align="center" style="font-size: 32px;" >Hi 👋, I'm Jir</p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Student+4/4;A+passionate+Backend+Developer;NodeJs,+ASP.NET+MVC,+ASP.NET+Core;Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50&color=green&"></a>
 
