@@ -39,12 +39,13 @@
 
 <br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selmanjir&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats" alt="Selman Jir CAN:: Profile Stats" /></p>
+<p align="center">
+    <a href="https://github.com/AVS1508">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=selmanjir&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=selmanjir&layout=compact&langs_count=8&theme=algolia"/>
+    </a>
+    </p>
 
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=selmanjir&count_private=true&show_icons=true&theme=synthwave" alt="Selman Jir CAN:: Profile Stats" /></p>
-
-
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=selmanjir&theme=synthwave&date_format=%5BY%20%5DM%20j&background=193549" alt="Selman Jir CAN:: Profile Stats" /></p>
-
-<div  align="center"> <img src="https://github.com/selmanjir/selmanjir/blob/main/.github/workflows/github-contribution-grid-snake.gif" /></div>
+<p align="center" >
+    <img height="180em"  src="http://github-readme-streak-stats.herokuapp.com?user=selmanjir&theme=algolia&date_format=%5BY%20%5DM%20j&background=193549" alt="Selman Jir CAN:: Profile Stats" />
+</p>
