@@ -10,7 +10,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </a> <a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-<img src="https://sametakca.com/wp-content/uploads/2020/12/715px-C_Sharp_logo.png" alt="c#" width="40" height="40"/> </a> 
+<img src="https://global-uploads.webflow.com/6097e0eca1e875de53031ff6/61bb05edca00197f2e7a19cf_Csharp_Logo.png" alt="c#" width="40" height="40"/> </a> 
 <a href="https://tr.wikipedia.org/wiki/.NET_Framework" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/2048px-.NET_Logo.svg.png" alt=".net" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
