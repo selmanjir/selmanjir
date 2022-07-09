@@ -2,27 +2,37 @@
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer+at+Pixa+Software;NodeJs,TypeScript,ASP.NET+MVC,MSSql,MySql;Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50&color=green&"></a>
 
 - 🔭 I’m currently working on the web
-- 🌱 I’m currently learning <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> Node.js <img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" alt="nodejs" width="25" height="25"/> </a>
+- 🌱 I’m currently learning <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://docs.nestjs.com/assets/logo-small.svg" alt="nodejs" width="25" height="25"/> </a>
 <br>
-
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> </h2>
 <p align="left">
+<a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/" target="_blank" rel="noreferrer"> 
+<img src="https://global-uploads.webflow.com/6097e0eca1e875de53031ff6/61bb05edca00197f2e7a19cf_Csharp_Logo.png" alt="c#" width="40" height="40"/>
+</a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-</a> <a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-<img src="https://global-uploads.webflow.com/6097e0eca1e875de53031ff6/61bb05edca00197f2e7a19cf_Csharp_Logo.png" alt="c#" width="40" height="40"/> </a> 
-<a href="https://tr.wikipedia.org/wiki/.NET_Framework" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/2048px-.NET_Logo.svg.png" alt=".net" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt=".net" width="40" height="40"/>
+</a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+<img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" alt="nodejs" width="40" height="40"/>
+</a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+</a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+</a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
 <a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-2019/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.hosting.com.tr/hosting/img/svg/windows/sqlserver.svg" alt="sql" width="40" height="40"/> </a>
+<img src="https://cdn.hosting.com.tr/hosting/img/svg/windows/sqlserver.svg" alt="sql" width="40" height="40"/>
+</a>
 <a href="https://www.adobe.com/tr/products/photoshop.html?skwcid=AL!3085!3!474170962009!e!!g!!photoshop&mv=search&sdid=LZ32SYVR&ef_id=CjwKCAiAx8KQBhAGEiwAD3EiP6qvENj2MDq3IMz5aQexyTM8Uushro4jCryAvVibMLm177qIa4kuQxoCIVIQAvD_BwE:G:s&s_kwcid=AL!3085!3!474170962009!e!!g!!photoshop!1448694214!55308397806&gclid=CjwKCAiAx8KQBhAGEiwAD3EiP6qvENj2MDq3IMz5aQexyTM8Uushro4jCryAvVibMLm177qIa4kuQxoCIVIQAvD_BwE" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+</a>
 </p>
 <br>
 
