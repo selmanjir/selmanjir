@@ -2,7 +2,7 @@
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer+at+Pixa+Software;NodeJs,TypeScript,ASP.NET+MVC,MSSql,MySql;Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50&color=green&"></a>
 
 - 🔭 I’m currently working on the web
-- 🌱 I’m currently learning <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
+- 🌱 I’m currently learning <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
 <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="nodejs" width="25" height="25"/> </a>
 <br>
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> </h2>
