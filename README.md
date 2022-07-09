@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px">, I'm Jir </h1>
-<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer+at+Pixa+Software;NodeJs,TypeScript,Expressjs,ASP.NET+MVC,MySql,MongoDb,MSSql;Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50&color=green&"></a>
+<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer+at+Pixa+Software;NodeJs,TypeScript,Expressjs,MySql,MongoDb;Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50&color=green&"></a>
 
 - 🔭 I’m currently working on the web
 - 🌱 I’m currently learning <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
@@ -23,6 +23,9 @@
 </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+</a>
+<a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
+<img src="https://assets-global.website-files.com/6009f6f109d51e60b911ba53/60232c7fee9f278674db9c2c_9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" alt="MongoDb" width="40" height="40"/>
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
