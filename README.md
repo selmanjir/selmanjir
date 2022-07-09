@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px">, I'm Jir </h1>
-<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer+at+Pixa+Software;NodeJs,TypeScript,ASP.NET+MVC,MSSql,MySql;Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50&color=green&"></a>
+<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer+at+Pixa+Software;NodeJs,TypeScript,Expressjs,ASP.NET+MVC,MySql,MongoDb,MSSql;Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50&color=green&"></a>
 
 - 🔭 I’m currently working on the web
 - 🌱 I’m currently learning <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
